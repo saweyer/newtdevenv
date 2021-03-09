@@ -1,0 +1,1 @@
+// ErrCnst.pkg// Copyright 1995-98 S. Weyer. All Rights Reserved Worldwideconstant kAutoCnst 		:= "ErrCnst";constant kVersionNum 	:= "3.4";constant kBetaVersion 	:= "";constant kDemoVersion	:= NIL;constant kConstantSymbol:= 'errorCodes; // used by Newt!constant kSlotSymbol 	:= 'protos;DefineGlobalConstant('kpartDataSymbol, kConstantSymbol);// more in AutoInstallRemove

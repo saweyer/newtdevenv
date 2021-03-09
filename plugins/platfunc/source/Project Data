@@ -1,0 +1,1 @@
+// PlatFunc.pkg. 3.4// Copyright 1995-97 S. Weyer. All Rights Reserved Worldwideconstant kAutoCnst 			:= "PlatFunc";constant kVersionNum 		:= "3.4";constant kBetaVersion 		:= "b";constant kDemoVersion		:= NIL;constant kSlotSymbol 		:= 'constants;constant kConstantSymbol 	:= 'PlatFunc;constant kPartDataSymbol	:= NIL;// more in AutoInstallRemove
