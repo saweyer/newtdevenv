@@ -1,5 +1,6 @@
 NewtDevEnv 3.4 release (1999), plugins, documentation and examples:<br/>
-https://communicrossings.com/html/newton/newtdev.htm
+https://communicrossings.com/html/newton/newtdev.htm<br/>
+https://communicrossings.com/html/newton/regnewt.htm  [zip pw: narfpoit]
 
 plugins:<br/>
 NewtPack saves Newt apps as Newton packages<br/>
