@@ -1,0 +1,1 @@
+if kBuild1xthen kProtoDictFrame.protoInfoButton := GetLayout("myProtoInfoButton");kProtoDictFrame.protoAboutText := GetLayout("protoAboutText");
